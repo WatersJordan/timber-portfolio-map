@@ -3,4 +3,5 @@ data/
 *.geojson
 *.gpkg
 *.qgz
-build.py
+*.qgs
+webmap.json
