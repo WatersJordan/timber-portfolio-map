@@ -1,0 +1,6 @@
+# never publish the plaintext sources the map is built from
+data/
+*.geojson
+*.gpkg
+*.qgz
+build.py
